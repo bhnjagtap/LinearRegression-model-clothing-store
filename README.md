@@ -74,18 +74,25 @@ bash
 Copy code
 jupyter notebook
 Open notebooks/EDA_and_Model.ipynb and run through the analysis.
-Results
-The Linear Regression model achieved an accuracy of X% on the test dataset.
-A scatter plot comparing predicted vs. actual values revealed how well the model was able to generalize.
-Residual errors were minimized, indicating the model’s reliable prediction capability.
-Future Improvements
-Experiment with other machine learning algorithms like Random Forest or Gradient Boosting to improve prediction accuracy.
-Incorporate additional features like user demographics or seasonal trends to enhance the model.
-Tune the model's hyperparameters using techniques such as Grid Search to find the optimal settings.
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+## Results
 
-vbnet
-Copy code
+- The **Linear Regression** model achieved an accuracy of **X%** on the test dataset.
+- A scatter plot comparing predicted vs. actual values revealed how well the model was able to generalize.
+- Residual errors were minimized, indicating the model’s reliable prediction capability.
 
+## Future Improvements
+
+1. Experiment with other machine learning algorithms like **Random Forest** or **Gradient Boosting** to improve prediction accuracy.
+2. Incorporate additional features like **user demographics** or **seasonal trends** to enhance the model.
+3. Tune the model's hyperparameters using techniques such as **Grid Search** to find the optimal settings.
+
+## License
+
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
+## Visualizations
+
+Here is a screenshot of one of the key visualizations from the project:
+
+![Model Performance](path/to/your/image.jpg)
 This README file is now formatted correctly for GitHub and includes all the n
