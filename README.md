@@ -94,5 +94,5 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 Here is a screenshot of one of the key visualizations from the project:
 
-![Model Performance](path/to/your/image.jpg)
+![Model Performance](Screenshot (1781).png)
 This README file is now formatted correctly for GitHub and includes all the n
